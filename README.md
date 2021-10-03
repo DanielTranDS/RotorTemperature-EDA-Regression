@@ -1,4 +1,7 @@
 # RotorTemperature-EDA-ModelBuilding
+
+(Go to https://github.com/DanielTranDS/RotorTemperature-EDA-Regression/blob/main/RotorTemp_ModellingCodes.ipynb for implementation)
+
 EDA, Feature Engineering and Model building for prediction and inference of rotor temperatures of a permanent magnet synchronous motor, using R
 
 In this project, I will attempt to model the rotor temperatures of a permanent magnet synchronous motor. Due to the intricate structure of an electric traction drive, direct measurement with thermal sensors is not possible for rotor temperatures, and even in case of the stator temperatures, sensor outage or even just deterioration can't be administered properly without redundant modeling. In addition, precise thermal modeling gets more and more important with the rising relevance of functional safety.
